@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExelApp", "WindowsFormsApp5\ExelApp.csproj", "{B35FC8DB-8F6E-4F7B-8D99-A9DC859886E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{B3766685-0F1D-426B-B385-CCB2EC469466}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B35FC8DB-8F6E-4F7B-8D99-A9DC859886E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B35FC8DB-8F6E-4F7B-8D99-A9DC859886E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B35FC8DB-8F6E-4F7B-8D99-A9DC859886E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B35FC8DB-8F6E-4F7B-8D99-A9DC859886E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3766685-0F1D-426B-B385-CCB2EC469466}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3766685-0F1D-426B-B385-CCB2EC469466}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3766685-0F1D-426B-B385-CCB2EC469466}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3766685-0F1D-426B-B385-CCB2EC469466}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE5E99B-3247-43E2-8149-B952C1C2BE00}
+	EndGlobalSection
+EndGlobal
